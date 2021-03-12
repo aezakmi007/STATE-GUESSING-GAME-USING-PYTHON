@@ -5,4 +5,4 @@ The idea behind this project is to guess the names of the states of America and 
 For creating the visual part of the project I have used turtle module of python.
 For matching the entered data and the correct data I have stored the data in .csv file from there I have extracted the data using python panda module
 
-![](/Screenshot(115).png)
+![](/PS/Screenshot(115).png)
